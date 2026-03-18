@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+    background-color: burlywood;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+h2 {
+    text-align: center;
+}    
+
+button {
+        background-color: black;
+        color: antiquewhite;
+    }
+
+img {
+    text-align: center;
+    border-radius: 30px;
+    
+}    
+
+h3 {
+    background-color: black;
+    color: aliceblue;
+
+}
+ body {
+        background-color: rgba(255, 68, 0, 0.479);
+   }
+
+   h4{
+        background-color: black;
+        color: aliceblue
+   }
+
+   h5 {
+        background-color: black;
+        color: antiquewhite;
+        font-size: 15px;
+   }
+
+   li {
+       font-weight: bold;
+
+   }
